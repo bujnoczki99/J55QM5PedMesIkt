@@ -16,11 +16,23 @@ Commit készítése. A -m kapcsoló után adjuk meg a commit címét.
 
 Branch váltása
 
+- git branch -M new-branch
+
+Új branch létrehozása
+
+- git status
+
+Aktuális állapot megtekintése. Módosított / stagelt fájlok, branch.
+
 Remote parancsok
 
 - git clone url
 
 Megadott urlen lévő repo letöltése
+
+- git remote add origin
+
+Távoli szerver hozzáadása a repohoz. Ezután a parancs után meg kell adnunk a szerver url-t.
 
 - git fetch origin
 
