@@ -1,0 +1,35 @@
+Local parancsok
+
+- git add
+
+Változtatott fájlok hozzáadása a commithoz. (stage file)
+
+- git add .
+
+Az összes változtatott fájl hozzáadása a commithoz. A . egy joker karakter.
+
+- git commit -m 'commit message'
+
+Commit készítése. A -m kapcsoló után adjuk meg a commit címét.
+
+- git checkout
+
+Branch váltása
+
+Remote parancsok
+
+- git clone url
+
+Megadott urlen lévő repo letöltése
+
+- git fetch origin
+
+Lekéri a szerverről a változásokat. (új commitek, branchek)
+
+- git pull
+
+Az aktuális branch új commitjeinek letöltése
+
+- git push
+
+Lokális commitek feltöltése
