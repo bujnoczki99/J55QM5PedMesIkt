@@ -1,8 +1,0 @@
-{
-    "botShape": "default",
-    "path": "/",
-    "mat": "EXAMPLE: Problem-Solving with Bee-Bot mat",
-    "type": "Bee-Bot",
-    "commands": "fd,fd,fd,fd,rt,fd,fd,rt,fd,fd,rt,fd,fd,fd,rt,fd,fd",
-    "visible": true
-}

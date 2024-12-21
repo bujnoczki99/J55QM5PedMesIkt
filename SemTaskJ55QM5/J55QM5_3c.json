@@ -1,0 +1,8 @@
+{
+    "botShape": "default",
+    "path": "/",
+    "mat": "EXAMPLE: Bee-Bot Lessons mat: Safety Signs",
+    "type": "Bee-Bot",
+    "commands": "rt,fd,fd,lt,fd,fd,fd,rt,fd",
+    "visible": true
+}

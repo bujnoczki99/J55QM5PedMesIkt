@@ -1,8 +1,0 @@
-{
-    "botShape": "default",
-    "path": "/",
-    "mat": "Alphabet Mat",
-    "type": "Bee-Bot",
-    "commands": "lt,fd,fd,rt,fd,fd,fd",
-    "visible": true
-}
